@@ -140,4 +140,4 @@ MIT License. IMDb data is sourced from IMDb's publicly available non-commercial 
 
 ## 🏷️ Topics
 
-tableau  imdb  movie-analytics  entertainment-analytics  data-visualization  film-industry  data-analysis
+`tableau` `imdb` `movie-analytics` `data-visualization` `entertainment-analytics` `business-intelligence` `data-analysis` `film-industry`
